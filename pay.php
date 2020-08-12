@@ -15,7 +15,7 @@
         "email" => $email,
         "phone" => $phone,
         "send_sms" => true,
-        "redirect_url" => "http://localhost/donation/thankyou.php"
+        "redirect_url" => "https://donation-demo.herokuapp.com/thankyou.php"
         //"webhook" =>
         ));
         //print_r($response);
