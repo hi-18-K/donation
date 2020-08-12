@@ -1,0 +1,10 @@
+h3{
+  color: #29546e;
+  font-family: cursive;
+  font-style: oblique;
+}
+
+input {
+  border: 2px solid black;
+  border-radius: 15px;
+}
