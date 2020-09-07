@@ -1,3 +1,12 @@
+body{
+  margin: 0;
+  padding:0;
+  font-family: sans-serif;
+  font-size: 50px;
+  background:  linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('donate_php3.jpg');
+}
+
+
 h3{
   color: #29546e;
   font-family: cursive;
